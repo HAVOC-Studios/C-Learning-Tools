@@ -27,7 +27,7 @@ int main() {
     std::string food = "Pizza";
     std::string address = "123 Faker Road";
 
-    std::cout << "Hello " << name;
+    std::cout << "Hello " << name << "\n";
     std::cout << "You are " << age << " years old";
 
     return 0;
